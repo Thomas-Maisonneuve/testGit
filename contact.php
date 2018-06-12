@@ -2,13 +2,15 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Test GIT</title>
+    <title>Test GIT - Contact</title>
 </head>
 <body>
 
-<h1>Page d'acceuil V2</h1>
+<h1>Page contatc V1</h1>
 
-Coucou les amis
+Ecrivez-moi
+
+<form></form>
     
 </body>
 </html>
